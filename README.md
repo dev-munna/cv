@@ -5,7 +5,7 @@
 </p>
 
 
-## Languages (#languages)
+## Languages
 
 - PHP
   - Row PHP
@@ -39,7 +39,7 @@
 - BOOTSTRAP
 
 
-## Blockchain Technology (#blockchain)
+## Blockchain Technology
 - Web3
   - Able to maintain full web3 services
 - Ethereum Node Expert
@@ -52,7 +52,7 @@
   - Sending, receing, address, qr code managing full node as wallet
 - Others LTC, DOGE, RIPPLE, BNB, BSC chain etc.
 
-## Operating System & Software (OS & Software)
+## Operating System & Software 
 - Mac OS
 - Windows
 - Linux
@@ -61,7 +61,7 @@
 - PHP-FPM
 - MySQL
 
-## Wallet & API management (#API & Wallet experiences)
+## Wallet & API management
 - Metamask
 - Wallet connect
 - Trust wallet
@@ -71,4 +71,13 @@
 - Bkash
 - Go URL
 - Coinpayment
+- Perfect money
+- Paystack
 - can handle anyone like these
+
+## Some of my packages
+- Please check this link: https://github.com/CryptocodeDevelopers?tab=repositories
+
+## Business & Support Email
+- munnaweber@gmail.com
+- munnawb9@gmail.com

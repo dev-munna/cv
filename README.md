@@ -62,6 +62,10 @@
 - Nginx
 - PHP-FPM
 - MySQL
+- Amazan AWS
+- Any vps server control
+- able to code at linux machine
+- always working on mac machine
 
 ## Wallet & API management
 - Metamask

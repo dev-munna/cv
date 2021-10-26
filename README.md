@@ -75,7 +75,7 @@
 - Paystack
 - can handle anyone like these
 
-## Some of my works at github at
+## Some of my works at github
 - Please check this link: https://github.com/CryptocodeDevelopers?tab=repositories
 
 ## Business & Support Email

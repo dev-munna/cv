@@ -20,6 +20,9 @@
   - Making secure larevel api
   - External api management
   - Able to Handle laravel local packages
+  - Social Login with Facebook, Google, Twitter etc
+  - Export import pdf, excel sheet etc.
+  - JWT authentication for token based SPA application
 - Modern Javascript
   - write to code at ES-6 
   - jquery
@@ -79,6 +82,7 @@
 - Coinpayment
 - Perfect money
 - Paystack
+- SMS api integration 
 - can handle anyone like these
 
 ## Some of my works at github

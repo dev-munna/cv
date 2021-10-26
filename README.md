@@ -1,4 +1,5 @@
 <p align="center">
-  <b>Some Links:</b><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  ## Munna Ahmed
+  <br/>
+  ### My professional experices & knowledge about
 </p>

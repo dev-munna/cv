@@ -51,3 +51,24 @@
 - BTC node expert
   - Sending, receing, address, qr code managing full node as wallet
 - Others LTC, DOGE, RIPPLE, BNB, BSC chain etc.
+
+## Operating System & Software (OS & Software)
+- Mac OS
+- Windows
+- Linux
+- Docker
+- Nginx
+- PHP-FPM
+- MySQL
+
+## Wallet & API management (#API & Wallet experiences)
+- Metamask
+- Wallet connect
+- Trust wallet
+- Paypal 
+- 2 Checkout
+- Striped
+- Bkash
+- Go URL
+- Coinpayment
+- can handle anyone like these

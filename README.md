@@ -1,5 +1,5 @@
 <p align="center">
-  <h2>Munna Ahmed</h2>
+  Munna Ahmed
   <br/>
    My professional experices & knowledge about
 </p>

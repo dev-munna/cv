@@ -23,6 +23,7 @@
   - Social Login with Facebook, Google, Twitter etc
   - Export import pdf, excel sheet etc.
   - JWT authentication for token based SPA application
+  - Laravel sail for easily maintaining laravel app on docker
 - Modern Javascript
   - write to code at ES-6 
   - jquery

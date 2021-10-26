@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/56052563?v=4"/>
+  <img src="https://raw.githubusercontent.com/dev-munna/cv/main/icon.jpeg"/>
   <br/>
   Munna Ahmed
   <br/>
